@@ -1,0 +1,4 @@
+cmd
+C:\Users\Administrator\Desktop\COTPS
+npm install
+node app
